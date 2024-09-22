@@ -174,3 +174,61 @@ enterprise environments.*
 
 Hyper-V is included in many versions of Windows 11. 
 
+Here are some important concepts related to Hyper-V:
+
+**Hypervisor Types**
+- **Type 1 (Bare-metal)**: Runs directly on hardware (e.g., Hyper-V).
+- **Type 2 (Hosted)**: Runs on an operating system.
+
+**Virtual Machines (VMs)**
+- A VM is an emulation of a physical computer, running an operating system and applications.
+
+**Virtual Hard Disks (VHD/VHDX)**
+- **VHD**: Virtual hard disk format, limited to 2 TB.
+- **VHDX**: Enhanced format, supports up to 64 TB, better performance, and resilience to power
+failures.
+
+**Virtual Switches**
+- Networking component allowing VMs to communicate with each other and the external
+network.
+- Types: External, Internal, and Private.
+
+**Resource Management**
+- **Dynamic Memory**: Allocates memory dynamically based on demand.
+- **CPU Allocation**: Configurable resources for VM performance.
+
+**Checkpoints**
+- Snapshots of the VM state, allowing rollback to a previous state for backup or testing.
+
+**Live Migration**
+- Moving a running VM from one host to another without downtime.
+
+**High Availability (HA)**
+- Ensures VMs are available in case of hardware failure, often using Failover Clustering.
+
+**Replication**
+- Hyper-V Replica allows you to replicate VMs to a secondary site for disaster recovery.
+
+**Integration Services**
+- Drivers and services that enhance VM performance and provide better interaction with the host
+OS.
+
+**Storage Options**
+- Different storage types like SMB, iSCSI, and direct attached storage for VMs.
+
+**Windows Server Roles**
+- Hyper-V is a server role in Windows Server that enables virtualization.
+
+**PowerShell and Management Tools**
+- PowerShell commands and tools like Hyper-V Manager for automation and management.
+
+**Networking Features**
+- **NIC Teaming**: Combines multiple network adapters for redundancy and performance.
+- **Network Virtualization**: Isolates network traffic between VMs.
+
+**Security Features**
+- **Secure Boot**: Protects the VM against boot-time attacks.
+- **Shielded VMs**: Provides additional security for sensitive workloads.
+
+---
+
