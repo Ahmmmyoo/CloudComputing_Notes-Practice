@@ -1,6 +1,6 @@
 # Cloud Computing
 
-
+<img width="900px" src="./assets/logosImages/cloudComputingImage.jpg" alt="Cloud Computing Image">
 
 ### Virtualization
 
@@ -71,6 +71,8 @@ When choosing a hypervisor, it's important to consider the specific needs of the
 
 ### VMware Workstation
 
+<img width="400px" src="./assets/logosImages//vmwarelogo.png" alt="VMware Logo">
+
 VMware Workstation is a desktop virtualization product that allows users to run multiple operating systems on the same computer without rebooting.
 
 VMware Workstation Pro is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems. There used to be an IA-32 version for earlier versions for the software. It enables users to set up virtual machines on a single physical machine and use them simultaneously along with the host machine.
@@ -95,11 +97,15 @@ VMware Workstation allows users to:
 
 ### VirtualBox
 
+<img width="400px" src="./assets/logosImages//virtualboxlogo.png" alt="VirtualBox Logo">
+
 Oracle VirtualBox is a hosted hypervisor for x86 virtualization developed by Oracle Corporation. As an open-source virtualization platform with built-in support for guest operating system functionality, Oracle VirtualBox is freely available for personal and commercial use, enabling users to run virtual machines without complex configuration or hardware changes.
 
 ---
 
 ### Windows Sandbox
+
+<img width="400px" src="./assets/logosImages//windowsSandbox.png" alt="Windows Sandbox Logo">
 
 Windows Sandbox is a lightweight desktop environment that allows you to run applications in isolation from your host operating system. It's a safe space to test and debug apps, explore unknown files, or experiment with tools without risking your host OS. *Software installed inside the Windows Sandbox environment remains "sandboxed" and runs separately from the host machine.*
 
@@ -127,6 +133,8 @@ Windows Sandbox is built into Windows 10 Pro and Enterprise, and later versions 
 ---
 
 ### Hyper-V
+
+<img width="400px" src="./assets/logosImages//hypervlogo.png" alt="Hyper-V Logo">
 
 Hyper-V is a Microsoft product that allows users to create and run virtual machines (VMs) on a physical host computer. VMs are software versions of computers that can run operating systems and programs, and act like fully functional computers. 
 
