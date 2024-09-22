@@ -75,3 +75,37 @@ Hyper-V is a Microsoft product that allows users to create and run virtual machi
 
 Hyper-V uses a hypervisor, which is software that creates an abstraction layer between the virtual OS and the physical host machine. This allows multiple VMs to run on the same physical machine.
 
+*Hyper-V is considered a Type 1 hypervisor (or bare-metal hypervisor) because it runs directly on the
+host's hardware. Hyper-V installs on Windows but runs directly on the physical hardware, inserting itself underneath the host OS. It creates isolated partitions in which operating systems can operate.*
+
+Hyper-V offers several benefits, including:
+
+**Flexibility**
+*Users can run more than one operating system on the same hardware, which can help save time and money.* 
+
+**Isolation**
+*Each VM runs in its own isolated space, which can help prevent crashes from affecting other workloads.* 
+
+**Performance**
+*By eliminating the overhead of a host operating system, Type 1 hypervisors like Hyper-V
+typically offer better performance for virtual machines.*
+
+**Direct Hardware Access**
+*Hyper-V interacts directly with the physical hardware, allowing for efficient resource
+management and performance.*
+
+**Disaster recovery**
+*Hyper-V Replica can asynchronously replicate VMs from a primary host to a secondary host, which can help with disaster recovery.* 
+
+**Scalability**
+*Hyper-V can manage a large number of virtual machines effectively, making it suitable for
+enterprise environments.*
+
+**Hardware utilization**
+*Hyper-V can help users make better use of their hardware by consolidating more computing jobs onto less hardware.* 
+
+**Support for Multiple Operating Systems**
+*It can host various guest operating systems, including different versions of Windows and Linux.*
+
+Hyper-V is included in many versions of Windows 11. 
+
