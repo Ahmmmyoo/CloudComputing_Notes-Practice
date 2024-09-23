@@ -32,3 +32,10 @@ Windows Sandbox is a lightweight desktop environment that allows you to run appl
 Hyper-V is a Microsoft product that allows users to create and run virtual machines (VMs) on a physical host computer.\
 🔗 [Hyper-V Notes](./assets/Notes/Hyper-V.md)
 
+#### 📜 [Tasks Week 2](./assets/Lab/TaskWeek2.md)
+- [Basic VM Creation and OS Installation](./assets/Lab/TaskWeek2.md#basic-vm-creation-and-os-installation)
+- [Observing Power States of VMs in Hyper-V](./assets/Lab/TaskWeek2.md#observing-power-states-of-vms-in-hyper-v)
+- [Networking and Virtual Switches](./assets/Lab/TaskWeek2.md#networking-and-virtual-switches)
+- [Snapshot Management](./assets/Lab/TaskWeek2.md#snapshot-management)
+- [Resource Allocation and Performance Monitoring](./assets/Lab/TaskWeek2.md#resource-allocation-and-performance-monitoring)
+
