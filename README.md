@@ -1,6 +1,6 @@
 # Cloud Computing
 
-<img width="900px" src="./assets/logosImages/cloudComputingImage.jpg" alt="Cloud Computing Image">
+<img src="./assets/logosImages/cloudComputingImage.jpg" alt="Cloud Computing Image">
 
 ### Virtualization
 
