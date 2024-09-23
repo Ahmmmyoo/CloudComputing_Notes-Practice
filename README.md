@@ -230,5 +230,25 @@ OS.
 - **Secure Boot**: Protects the VM against boot-time attacks.
 - **Shielded VMs**: Provides additional security for sensitive workloads.
 
+### Virtual Network Switches
+
+*Hyper-V provides three virtual network switches: private, internal, and external. The private switch enables communication between VMs, the internal switch allows communication between VMs and the host, and the external switch enables communication with the network.*
+
+Hyper-V has three types of virtual switches that allow virtual machines (VMs) to communicate with each other and with the host computer and network:
+
+**External virtual switch**\
+Connects to a physical network through a network adapter on the host computer. VMs connected to the same external switch can communicate with each other, and the host operating system (OS) can communicate across external switches.
+
+**Internal virtual switch**\
+Does not connect to a physical network adapter, and instead uses software-defined networks. VMs and the host can communicate with each other through an internal switch.
+
+**Private virtual switch**\
+Similar to an internal switch, but does not connect to the host OS. VMs connected to a private switch can communicate with each other, but cannot communicate with anything outside of the private switch. 
+
+*A virtual switch is a software-defined layer 2 switch that allows VMs to communicate with other computers. A VM can connect to multiple virtual switches.* 
+
+**VLAN ID**\
+In Hyper-V, a VLAN identifier specifies which virtual LAN (VLAN) a virtual machine (VM) can use to communicate over a network adapter. A VLAN ID is a number between 1 and 4094 that identifies a specific VLAN.
+
 ---
 
