@@ -39,3 +39,14 @@ Hyper-V is a Microsoft product that allows users to create and run virtual machi
 - [Snapshot Management](./assets/Lab/TaskWeek2.md#snapshot-management)
 - [Resource Allocation and Performance Monitoring](./assets/Lab/TaskWeek2.md#resource-allocation-and-performance-monitoring)
 
+### Scalability
+
+Scalability in Cloud Computing refers to the ability of a cloud system to handle increasing or decreasing workloads efficiently. It allows resources such as processing power, storage, and network bandwidth to expand or contract dynamically based on demand.\
+This flexibility ensures that businesses can scale up during peak usage periods and scale down during low-demand times, optimizing costs and maintaining performance. Cloud providers offer two types of scalability:
+
+**Vertical Scalability (Scaling Up)**: Increases the capacity of existing hardware by adding more power (e.g., upgrading to a more powerful server).
+
+**Horizontal Scalability (Scaling Out)**: Involves adding more servers or nodes to distribute the load, which is often preferred for handling high-demand workloads.
+
+*Scalability is a core advantage of cloud computing, enabling businesses to grow without the need for massive upfront infrastructure investments.*
+
