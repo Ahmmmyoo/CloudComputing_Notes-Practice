@@ -50,3 +50,6 @@ This flexibility ensures that businesses can scale up during peak usage periods 
 
 *Scalability is a core advantage of cloud computing, enabling businesses to grow without the need for massive upfront infrastructure investments.*
 
+🔗🌐 [Horizontal Vs. Vertical Scaling: Which Should You Choose?](https://www.cloudzero.com/blog/horizontal-vs-vertical-scaling/)
+
+
