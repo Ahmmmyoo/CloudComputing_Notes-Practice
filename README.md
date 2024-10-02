@@ -70,3 +70,12 @@ Ensuring strong isolation between VMs, securing the hypervisor, and regularly up
 
 🔗🌐 [What Is System Hardening?](https://blog.netwrix.com/2023/02/22/system-hardening/#:~:text=This%20process%20includes%20removing%20unnecessary,for%20unauthorized%20access%20to%20occur)
 
+### CDN 
+
+CDN stands for content delivery network or content distribution network. It's a system of servers that are spread out around the world to deliver content to users quickly and efficiently.
+
+🔗 [CDN Notes](./assets/Notes/CDN.md)
+
+🔗🌐 [What is a CDN? Content Delivery Network Explained - AWS](https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,reaches%20their%20computers%20much%20faster.))
+🔗🌐 [What is a CDN? How does a CDN Work? - Imperva](https://www.imperva.com/learn/performance/what-is-cdn-how-it-works/#:~:text=Website%20Security,of%20your%20core%20network%20infrastructure.)
+
