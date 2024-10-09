@@ -76,6 +76,22 @@ CDN stands for content delivery network or content distribution network. It's a 
 
 🔗 [CDN Notes](./assets/Notes/CDN.md)
 
-🔗🌐 [What is a CDN? Content Delivery Network Explained - AWS](https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,reaches%20their%20computers%20much%20faster.))
+🔗🌐 [What is a CDN? Content Delivery Network Explained - AWS](https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,reaches%20their%20computers%20much%20faster.))\
 🔗🌐 [What is a CDN? How does a CDN Work? - Imperva](https://www.imperva.com/learn/performance/what-is-cdn-how-it-works/#:~:text=Website%20Security,of%20your%20core%20network%20infrastructure.)
 
+### Cloud Storage Types
+
+The main types of cloud storage are object, file, and block storage:
+
+**Object storage**\
+Pairs data with unique identifiers called metadata. Objects are uncompressed and unencrypted, so they can be accessed quickly at scale.
+
+**File storage**\
+Organizes data and represents it to users. It has a hierarchical structure that makes it easy to navigate data, but it also increases processing time.
+
+**Block storage**\
+Splits a storage volume into individual instances called blocks. It's a fast storage system with low latency, making it ideal for high performance workloads.
+
+🔗 [Cloud Storage Types](./assets/Notes/CloudStorageTypes.md)
+
+🔗🌐 [What is Cloud Storage? - Cloud Storage Explained - AWS](https://aws.amazon.com/what-is/cloud-storage/#:~:text=There%20are%20three%20main%20cloud,file%20storage%2C%20and%20block%20storage.)
