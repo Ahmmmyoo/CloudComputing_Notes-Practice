@@ -99,3 +99,26 @@ Splits a storage volume into individual instances called blocks. It's a fast sto
 
 ### Auto Scaling in AWS
 
+Amazon Web Services (AWS) Auto Scaling is a free service that automatically scales AWS resources to optimize costs and utilization. It can scale resources for multiple services, including:
+- Amazon EC2 instances and Spot Fleets
+- Amazon ECS tasks
+- Amazon DynamoDB tables
+- Amazon Aurora Replicas
+- Amazon EMR instances
+- Amazon AppStream 2.0 fleets 
+
+AWS Auto Scaling can:
+- **Increase resources when demand rises**\
+Automatically increase computing power or storage resources when demand increases 
+- **Reduce resources when demand drops**
+Automatically remove excess resource capacity when demand drops
+- **Optimize performance and costs**\
+Provide recommendations to optimize performance and costs, or balance between them 
+- **Scale based on conditions**\
+Scale resources based on conditions you define, such as target tracking, step scaling, or scheduled scaling 
+- **Create custom scaling strategies**\
+Define how to optimize resource usage, such as preferring availability, cost, or a balance of the two 
+
+*You can use the AWS Management Console, Command Line Interface (CLI), or SDK to get started with AWS Auto Scaling.*
+
+🔗🌐 [AWS Auto Scaling](https://aws.amazon.com/autoscaling/#:~:text=AWS%20Auto%20Scaling%20monitors%20your,across%20multiple%20services%20in%20minutes.)
