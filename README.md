@@ -95,3 +95,7 @@ Splits a storage volume into individual instances called blocks. It's a fast sto
 🔗 [Cloud Storage Types](./assets/Notes/CloudStorageTypes.md)
 
 🔗🌐 [What is Cloud Storage? - Cloud Storage Explained - AWS](https://aws.amazon.com/what-is/cloud-storage/#:~:text=There%20are%20three%20main%20cloud,file%20storage%2C%20and%20block%20storage.)
+
+
+### Auto Scaling in AWS
+
